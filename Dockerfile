@@ -1,4 +1,4 @@
-FROM sonatype/nexus3:3.19.0
+FROM sonatype/nexus3:3.19.1
 ARG HELM_PLUGIN_VERSION=0.0.13
 LABEL maintainer=david.karlsen@evry.com
 USER root
